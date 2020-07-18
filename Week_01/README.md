@@ -18,7 +18,7 @@
 
 | 题目 | 类型 | 难度 | 练习地址链接 | 练习次数 |
 | :----- | :----- | :----- | :----- | :----: |
-| [两数之和](https://leetcode-cn.com/problems/two-sum/) | Array | 简单 |  | 0 |
+| [两数之和](https://leetcode-cn.com/problems/two-sum/) | Array | 简单 |  | 1 |
 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | Array | 中等 |  | 0 |
 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | Array | 简单 |  | 0 |
 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | Array | 简单 |  | 0 |
