@@ -28,3 +28,15 @@
 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | Linked List | 简单 |  | 0 |
 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | Linked List | 中等 |  | 0 |
 | [K个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | Linked List | 困难 | | 0 |
+
+
+### 本周作业
+
+| 题目 | 类型 | 难度 | 练习地址链接 | 是否完成 |
+| :----- | :----- | :----- | :----- | :----: |
+| [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | Array | 简单 |  | |
+| [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | Array | 简单 |  |  |
+
+
+
+
